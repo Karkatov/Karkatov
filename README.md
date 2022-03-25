@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, my name is Sergey, I am a beginner IOS developer.👋
 
+- 🏠 I live in Saint-Petersburg, Russia
+- 🌱 I’m currently learning Swift 
+- 💻 I'm currently looking for a job in Mobile Development
+- 📫 You can contact me by email - karkatof@ya.ru
 <!--
 **Duxxless53/Duxxless53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

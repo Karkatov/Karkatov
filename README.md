@@ -1,4 +1,4 @@
-### Hi, my name is Sergey, I am a beginner IOS developer.👋
+### Hi, my name is Sergey, I am a beginner IOS developer👋
 
 - 🏠 I live in Saint-Petersburg, Russia
 - 👨🏻‍💻 I’m engaged in programming in Swift 

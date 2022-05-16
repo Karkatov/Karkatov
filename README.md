@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sergey Karkatov</h1>
-<h3 align="center">I'm a full stack iOS developer experienced in Swift.</h3>
+<h2 align="center">I'm a full stack iOS developer experienced in Swift.</h2>
 
 ![Mobile development](https://www.interactive-education.gr/media/images/header-marketing2.jpg.jpeg)
 
@@ -16,9 +16,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karkatof&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkatof)
-
-![Profile views](https://gpvc.arturio.dev/karkatof)  
-
 <!--
 **Duxxless53/Duxxless53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

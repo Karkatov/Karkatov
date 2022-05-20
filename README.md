@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sergey Karkatov</h1>
+<h1 align="center">Hi there 👋, I'm Sergey Karkatov.</h1>
 <h2 align="center">I'm a full stack iOS developer experienced in Swift.</h2>
 
 ![Mobile development](https://www.interactive-education.gr/media/images/header-marketing2.jpg.jpeg)

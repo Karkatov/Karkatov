@@ -11,11 +11,11 @@
 
 - 📫 You can contact me by email - karkatof@ya.ru 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karkatof)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karkatov)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karkatof&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karkatov&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkatof)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkatov)
 <!--
 **Duxxless53/Duxxless53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
